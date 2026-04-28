@@ -92,7 +92,7 @@ async function generate() {
 
   try {
     const response = await fetch(
-      "https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key=AIzaSyA3caXflTGKBJs78pwoFDZrDAG_HhW7XbE" ,
+      "https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key=your_api_key" ,
       {
         method: "POST",
         headers: {

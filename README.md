@@ -14,3 +14,5 @@ With this application, users can ask questions, generate creative ideas, summari
 * User-friendly interface
 
 💡 This project demonstrates real-world API integration, asynchronous JavaScript, and modern frontend development skills. It is perfect for students, developers, and anyone interested in exploring the power of AI in web applications.
+
+in this project i use ai for solving errors making good ui(user interface).
